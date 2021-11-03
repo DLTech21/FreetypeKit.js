@@ -14,7 +14,6 @@ I would like to acknowledge the work of others without which FreetypeKit.js woul
 * [FreeType](https://www.freetype.org/): for the nitty-gritty details and filling in the gaps when the spec was incomplete.
 * [ONLYOFFICE-sdkjs](https://github.com/ONLYOFFICE/sdkjs): JavaScript SDK which is a part of ONLYOFFICE Document Server.
 
-* All contributing authors mentioned in the [AUTHORS](https://github.com/opentypejs/opentype.js/blob/master/AUTHORS.md) file.
 
 Contributors
 ============================
